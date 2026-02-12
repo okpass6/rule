@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,emby.pro
+DOMAIN-SUFFIX,missav.ws
+
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
