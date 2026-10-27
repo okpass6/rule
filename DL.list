@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,lunarisvault.com
 DOMAIN-SUFFIX,okgg.top
 DOMAIN-SUFFIX,ccgfw.top
 DOMAIN-SUFFIX,tailscale.com
-
+DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
